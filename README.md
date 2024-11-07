@@ -1,0 +1,1 @@
+# Guanabara_Questoes_Algoritmos_Com_Python_2019.2
